@@ -1,5 +1,6 @@
-#Application in Development 
+# Application in Development 
 
-# To run project
+# To start the application, run the following command:
 
-'npm run start'
+```bash
+npm run start
